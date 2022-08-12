@@ -6,6 +6,8 @@
 #include <sleep.h>
 
 #define PAYLOADSIZE 5
+#define MAXHIGHT 168 //cm
+
 #define NADAJNIK
 // #define ODBIORNIK
 
